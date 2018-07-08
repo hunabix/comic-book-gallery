@@ -12,6 +12,7 @@ namespace ComicBookGallery.Data
         {
             new ComicBook()
             {
+                Id = 1,
                 SeriesTitle = "The Amazing Spider-Man",
                 IssueNumber = 700,
                 DescriptionHtml = "<p>The story was controversial, concluding with the death of Parker in Octopus' body, and Octopus surviving as the now Superior Spider-Man. <strong>Dying Wish</strong> encompassed some of the best selling comics of 2012, with issue #700 listed as the 4th best selling comic of the year.</p>",
@@ -27,6 +28,7 @@ namespace ComicBookGallery.Data
             },
             new ComicBook()
             {
+                Id = 2,
                 SeriesTitle = "The Amazing Spider-Man",
                 IssueNumber = 657,
                 DescriptionHtml = "<p><strong>FF: THREE TIE-IN.</strong> Spider-Man visits the FF for a very private wake--just for family.</p>",
@@ -42,6 +44,7 @@ namespace ComicBookGallery.Data
             },
             new ComicBook()
             {
+                Id = 3,
                 SeriesTitle = "Bone",
                 IssueNumber = 50,
                 DescriptionHtml = "<p><strong>The Dungeon & The Parapet, Part 1.</strong> Thorn is discovered by Lord Tarsil and the corrupted Stickeaters and thrown into a dungeon with Fone Bone. As she sleeps, a message comes to her about the mysterious \"Crown of Horns\".</p>",
